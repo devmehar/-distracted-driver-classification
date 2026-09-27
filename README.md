@@ -11,7 +11,7 @@ Distracted driving is a leading cause of road accidents. Automatically detecting
 *(Add a screenshot here of a sample prediction — e.g., an input image next to the model's predicted class and confidence score. A GIF cycling through a few predictions works great too.)*
 
 ```
-📷 [input image] → Predicted: "texting - right"  (confidence: 0.9X)
+[input image] → Predicted: "texting - right"  (confidence: 0.9X)
 ```
 
 ## Dataset
